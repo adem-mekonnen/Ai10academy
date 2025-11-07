@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual env
+venv/
+.env/
+.conda/
+
+# Data files
+data/
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
